@@ -13,5 +13,5 @@ We can see 2 groups form: The Insertion and Bubble sort seem to perform approxim
   The annex file “Result2” is a closeup of the Merge and Quick sort. Focusing only on these 2 by not plotting the Insertion and Bubble sort (comment out the lines 117 and 118), we start to see a difference in between these 2 algorithms. The Quick sort (like its name indicates) turns out to be the quickest here. 
   
   But does that make it the fastest sorting algorithm there is?
-Find out in my future repositories!
+Find out in this repository: https://github.com/xAppashx/QuickSortVsPython.sort
 
