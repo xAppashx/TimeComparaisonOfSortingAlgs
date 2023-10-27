@@ -1,6 +1,6 @@
 The goal of the project is to demonstrate the different efficiencies of various sorting algorithms. 
 
-  We test 4 sorting algorithms: Insertion Sort, Bubble Sort, Merge Sort, and Quick Sort. These 4 algorithms are in annex files of the project. 
+  The file "TimeComparison" tests 4 sorting algorithms: Insertion Sort, Bubble Sort, Merge Sort, and Quick Sort. These 4 algorithms are in annex files of the project. 
 
   To test the efficiency of each sorting algorithm, we generate an array with a controlled length, but the values inside of the array are generated randomly, hence, not sorted. The reasoning behind it is to control how long it takes for each sorting algorithm to sort an array of length n, whilst creating a “realistic” scenario of sorting (not the best nor worst efficiency case of each sorting algorithm). 
 
