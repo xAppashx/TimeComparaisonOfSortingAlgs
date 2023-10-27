@@ -112,7 +112,7 @@ ax.legend(handles=[Red, Magenta, Blue, Green])
 
 
 
-plt.title("Time comparaison of different sorting algs")
+plt.title("Time comparison of different sorting algs")
 
 plt.scatter(x, TimeInsertionSort, s=15, c='red')   #Plotting the InsertionSort
 plt.scatter(x, TimeBubbleSort, s=15, c='m')   #Plotting the BubbleSort
